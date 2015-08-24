@@ -37,5 +37,4 @@ change-default-console-loglevel.patch
 compal-laptop-hwmon-fix.patch
 
 # fix initialization with intel video
-0011-drm-i915-Disallow-pin-ioctl-completely-for-kms-drive.patch
 unfuck_intel_video.patch
